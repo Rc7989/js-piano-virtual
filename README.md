@@ -1,6 +1,7 @@
 
 
 🎹 Piano Virtual
+
 Este é um piano virtual desenvolvido com HTML, CSS e JavaScript, permitindo a reprodução de sons das teclas ao clicar ou usar o teclado do computador. Além disso, o projeto inclui um controle de volume e uma opção para ocultar a exibição das teclas.
 
 🛠 Tecnologias Utilizadas
