@@ -4,6 +4,7 @@
 
 Este é um piano virtual desenvolvido com HTML, CSS e JavaScript, permitindo a reprodução de sons das teclas ao clicar ou usar o teclado do computador. Além disso, o projeto inclui um controle de volume e uma opção para ocultar a exibição das teclas.
 
+
 🛠 Tecnologias Utilizadas
 HTML: Estrutura do piano e dos controles.
 CSS: Estilização do piano, incluindo efeitos visuais ao pressionar as teclas.
@@ -13,6 +14,7 @@ JavaScript: Manipulação dos eventos de clique e teclado, controle de áudio e 
 ✅ Controle de volume ajustável via slider.
 ✅ Ativar/Desativar legendas das teclas.
 ✅ Efeitos visuais ao pressionar uma tecla.
+
 
 🎵 Estrutura do Projeto
 📂 src/
